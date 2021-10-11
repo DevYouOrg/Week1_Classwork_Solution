@@ -27,10 +27,10 @@ namespace DevYou_Week1_Solution
             Console.WriteLine("Hello " + fName + " " + lName  +" it is nice to meet you!");
 
             //string tokenization
-            Console.WriteLine("Hello {0} {1} it is noce to meet you!", fName, lName);
+            Console.WriteLine("Hello {0} {1} it is nice to meet you!", fName, lName);
 
             //string interpolation
-            Console.WriteLine($"Hello {fName} {lName} it is noce to meet you!");
+            Console.WriteLine($"Hello {fName} {lName} it is nice to meet you!");
 
             Console.ReadLine();
         }
